@@ -27,3 +27,8 @@
 *.exe
 *.out
 *.app
+
+# Build directories
+/bin/
+/build/
+/doc/
